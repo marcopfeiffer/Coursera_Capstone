@@ -1,0 +1,19 @@
+Data
+
+To help Mario to find the perfect location for his backery we will need to access following data:
+
+- Mario wants to open his bakery in a large city in switzerland. The main cities with the total number of citizens we will get from
+wikipedia:
+https://de.wikipedia.org/wiki/Liste_der_St%C3%A4dte_in_der_Schweiz
+
+- The coordinates (latitude, longitude) ot these Localities we will get from Open Street Map APIs
+
+- From Foursquare we will need following venues data:
+(exact infomation can be obtained here: https://developer.foursquare.com/docs/resources/categories)
+
+  - bakery data location data and names
+  - offices / working places location data and names
+  - universities / school location data and names
+  - leisure and nature spots data and names
+
+We will use this data to find out which loaction is most suitable for marios bakery.
